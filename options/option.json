@@ -1,0 +1,10 @@
+{
+    "botName": "Shureke Bot",
+    "ownerName": "Henrique",
+    "BarBarKey": "YOUR_APIKEY",
+    "ownerNumbers": "5511974980928@s.whatsapp.net",
+    "languages": "eng",
+    "botPrefix": ".",
+    "memberLimitss": "35",
+    "userDefaultLimit": "30"
+}
